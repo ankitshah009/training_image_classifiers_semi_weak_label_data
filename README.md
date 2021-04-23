@@ -3,6 +3,18 @@ This repo provides the code for paper "Training Image Classifiers using Semi-Wea
 
 Contacts: `Anxiang Zhang (adamzhang1679@gmail.com), Ankit Shah (aps1@andrew.cmu.edu)`
 
+## Citation
+
+```
+@article{zhang2021training,
+  title={Training image classifiers using Semi-Weak Label Data},
+  author={Zhang, Anxiang and Shah, Ankit and Raj, Bhiksha},
+  journal={arXiv preprint arXiv:2103.10608},
+  year={2021}
+}
+
+```
+
 ## Prerequisites
 - Python 3.6+
 - PyTorch 1.0+
